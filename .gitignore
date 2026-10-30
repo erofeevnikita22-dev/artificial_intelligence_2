@@ -1,0 +1,12 @@
+# данные и результаты обучения
+data/
+results_roads/
+*.pth
+*.pt
+
+# файлы среды разработки
+.idea/
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+venv/
